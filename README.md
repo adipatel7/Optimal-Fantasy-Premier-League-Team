@@ -1,6 +1,6 @@
 # Optimal-Fantasy-Premier-League-Team
 
-## Intorduction
+## Introduction
   
 Fantasy Premier League (FPL) is a game where participants have to form a team of actual players playing in the English Premier League (Soccer League). It is a widely popular game which has a player base of around 7-8 million players every year. In this report, we create a model which selects the optimal squad of players each week. The main motivation for this project is to remove the cognitive biases that come into effect when playing such games. For instance, humans are more likely to pick the players that they like even if they are not the best option. Being good at fantasy football may seem to be all about accurately predicting player performances, however even with perfect forecasts the problem of selecting the optimal team is not easy — mostly you decide on a bunch of players, shuffle them in and out of the team until you get the budget right. Introducing strategies involving transfers over several weeks adds another layer of complexity.
 
