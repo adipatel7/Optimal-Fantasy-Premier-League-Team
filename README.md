@@ -1,7 +1,7 @@
 # Optimal-Fantasy-Premier-League-Team
 
 ## Note
-Full program can be found in the python notebook.
+The full program can be found in the python notebook.
 
 ## Introduction
   
